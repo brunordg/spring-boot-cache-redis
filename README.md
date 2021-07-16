@@ -1,4 +1,3 @@
-[![CI Status](https://travis-ci.org/brunordg/ctanywhere.svg?branch=master&style=flat-square)](https://travis-ci.org/brunordg/ctanywhere)
-[![MIT license](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+![AppVeyor](https://img.shields.io/appveyor/build/brunordg/https://img.shields.io/appveyor/build/brunordg/spring-boot-cache-redis?style=plastic)
 
 # spring-boot-cache-redis
