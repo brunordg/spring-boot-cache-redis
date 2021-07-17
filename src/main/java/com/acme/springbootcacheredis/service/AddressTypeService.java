@@ -1,7 +1,7 @@
 package com.acme.springbootcacheredis.service;
 
-import com.acme.springbootcacheredis.entities.AddressType;
-import com.acme.springbootcacheredis.exceptions.EntityNotFoundException;
+import com.acme.springbootcacheredis.entity.AddressType;
+import com.acme.springbootcacheredis.exception.EntityNotFoundException;
 import com.acme.springbootcacheredis.repository.AddressTypeRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

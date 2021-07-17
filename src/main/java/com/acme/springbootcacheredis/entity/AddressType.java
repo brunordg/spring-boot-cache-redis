@@ -1,4 +1,4 @@
-package com.acme.springbootcacheredis.entities;
+package com.acme.springbootcacheredis.entity;
 
 import lombok.Data;
 

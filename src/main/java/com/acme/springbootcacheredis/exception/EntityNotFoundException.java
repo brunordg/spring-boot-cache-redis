@@ -1,4 +1,4 @@
-package com.acme.springbootcacheredis.exceptions;
+package com.acme.springbootcacheredis.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,6 +1,6 @@
 package com.acme.springbootcacheredis.controller;
 
-import com.acme.springbootcacheredis.entities.AddressType;
+import com.acme.springbootcacheredis.entity.AddressType;
 import com.acme.springbootcacheredis.service.AddressTypeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
